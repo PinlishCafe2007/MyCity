@@ -1,12 +1,22 @@
 export const routes = [
     {
         id: 1,
-        title: 'First',
-        body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem eaex maiores minima minus nisiperspiciatis sapiente voluptate',
+        title: 'Хакасский государственный университет',
+        body: 'Хакасский государственный университет - это ведущий вуз Абакана с бюджетными местами. Был открыт в 1994 году, носит имя Николая Федоровича Катанова - известного тюрколога и этнолога. Руководитель организации - Татьяна Григорьевна Краснова.',
     },
     {
         id: 2,
-        title: 'Second',
-        body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem eaex maiores minima minus nisiperspiciatis sapiente voluptate',
+        title: 'Хакасский технический институт',
+        body: 'ХТИ - это филиал Сибирского федерального университета, был открыт в 1967 году. Директором института назначена Елена Анатольевна Бабушкина.',
+    },
+    {
+        id: 3,
+        title: 'Хакасский филиал КГАУ',
+        body: 'Красноярский аграрный университет в 1963 году открыл свой филиал в Хакасии. Это дочернее учреждение стало первым вузом Абакана с сельскохозяйственным профилем в регионе.',
+    },
+    {
+        id: 4,
+        title: 'Филиал МЭСИ',
+        body: 'Один из вузов г. Абакан с экономическим профилем - это филиал Московского университета экономики, статистики и информатики.',
     },
 ];

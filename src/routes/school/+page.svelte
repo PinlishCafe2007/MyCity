@@ -2,7 +2,7 @@
     <title>Учебные заведения</title>
 </svelte:head>
 <div class='container'>
-    <h1>Учебные заведения Абакана</h1>
+    <h1>Вузы Абакана: список, обзор ведущих учреждений</h1>
     <div class='blogposts'>
         {#each routes as page}
             <div class='post'>

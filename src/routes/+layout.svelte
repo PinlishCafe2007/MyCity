@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-container">
-        <a href="/" class="nav-logo" title="Back to Homepage">Мой город</a>
+        <a href="/" class="nav-logo" title="Back to Homepage">Город Абакан</a>
         <div class="nav-links">
             {#each nav as link}
                 {#if link.isShow}

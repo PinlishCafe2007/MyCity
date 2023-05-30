@@ -1,5 +1,5 @@
 <svelte:head>
-<title>Мой город</title>
+<title>Город Абакан</title>
 </svelte:head>
 <div class='container'>
     <div class='info'>
@@ -7,19 +7,18 @@
             <div class='container info-container'>
                 <div class='info-text'>
                     <h1>
-                        <p class='animate-text1'>Lorem ipsum dolor sit,</p>
-                        <p class='text-2'>Lorem ipsum dolor sit amet.</p>
+                        <p class='animate-text1'>Абакан,</p>
+                        <p class='text-2'>Краткая информация о городе</p>
                     </h1>
                 </div>
                 <h2 class='subtitle'>
-                    Lorem ipsum dolor sit
-                    amet, consectetur adipisicing elit.
-                    Accusantium architecto aut, cupiditate dolores 
-                    ducimus expedita labore
-                    nemo odio quibusdam quidem sapiente soluta.
+                    Абакан, столица Республики Хакасии, расположился на юге Сибири, 
+                    буквально в самом географическом центре азиатского континента. 
+                    Город находится в живописном месте – близ устья реки Абакан, 
+                    впадающей в Енисей, который является естественной водной границей Хакасии и Красноярского края.
                 </h2>
                 <div style='color:black' class='scroll-button animate-scroll' tabindex='0'>
-                    <a href='/history'>Click Here</a>
+                    <a href='/history'>Далее</a>
                     <div class='arrow'>→</div>
                 </div>
             </div>
@@ -66,8 +65,8 @@
     .background-div {
     background-color:#B0E0E6;
     width: 100%;
-    height: 56vh;
-    margin: -205px auto;
+    height: 46vh;
+    margin: -185px auto;
     }
     .info .info-text {
     position: relative;
