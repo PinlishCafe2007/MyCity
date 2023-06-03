@@ -34,8 +34,12 @@
     padding: 10px;
     box-shadow: 0 0 10px #eee;
     background-color: #B0E0E6;
+    z-index: 2;
     }
     .link {
     color: rgb(10, 10, 139);
+    }
+    h1{
+    z-index: 2;
     }
 </style>

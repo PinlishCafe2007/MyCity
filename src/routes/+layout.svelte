@@ -39,7 +39,7 @@
         {
             title: `Отдых`,
             href: `/chill`,
-            isShow: true
+            isShow: false
         },
     ];
 </script>
